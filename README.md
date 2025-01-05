@@ -1,9 +1,9 @@
-In this repo, you can find 3 files: 
-  The first one: part_1_mars_news.ipynb
+## In this repo, you can find 3 files: 
+##  The first one: part_1_mars_news.ipynb
     Contains the code to "scrap" the info from the mars site (https://static.bc-edx.com/data/web/mars_news/index.html)
-  The second one: part_2_mars_weather.ipynb
+##  The second one: part_2_mars_weather.ipynb
     Contains the analysis code, and some insights obtained from that. (scrapping the table https://static.bc-edx.com/data/web/mars_facts/temperature.html) 
-  The third one: data_scrapped.csv
+##  The third one: data_scrapped.csv
     Is the raw info scrapped from the mars site. 
 
 
